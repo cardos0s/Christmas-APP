@@ -1,0 +1,8 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx" mvid="7354d67077e04870ae28a2bb04df274e">
+  <java-to-managed>
+    <entry java-name="androidx/lifecycle/LiveDataKt" managed-name="AndroidX.Lifecycle.LiveDataKt, Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx" managed-type-token-id="33554438" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/lifecycle/LiveDataKt" managed-name="AndroidX.Lifecycle.LiveDataKt, Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx" managed-type-token-id="33554438" />
+  </managed-to-java>
+</api>

@@ -1,0 +1,16 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.Lifecycle.Runtime.Ktx" mvid="8547d30e21104c9caa8c8c45e043cb77">
+  <java-to-managed>
+    <entry java-name="androidx/lifecycle/FlowExtKt" managed-name="AndroidX.Lifecycle.FlowExtKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554438" />
+    <entry java-name="androidx/lifecycle/LifecycleDestroyedException" managed-name="AndroidX.Lifecycle.LifecycleDestroyedException, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554439" />
+    <entry java-name="androidx/lifecycle/RepeatOnLifecycleKt" managed-name="AndroidX.Lifecycle.RepeatOnLifecycleKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554440" />
+    <entry java-name="androidx/lifecycle/ViewKt" managed-name="AndroidX.Lifecycle.ViewKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554441" />
+    <entry java-name="androidx/lifecycle/WithLifecycleStateKt" managed-name="AndroidX.Lifecycle.WithLifecycleStateKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/lifecycle/FlowExtKt" managed-name="AndroidX.Lifecycle.FlowExtKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554438" />
+    <entry java-name="androidx/lifecycle/LifecycleDestroyedException" managed-name="AndroidX.Lifecycle.LifecycleDestroyedException, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554439" />
+    <entry java-name="androidx/lifecycle/RepeatOnLifecycleKt" managed-name="AndroidX.Lifecycle.RepeatOnLifecycleKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554440" />
+    <entry java-name="androidx/lifecycle/ViewKt" managed-name="AndroidX.Lifecycle.ViewKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554441" />
+    <entry java-name="androidx/lifecycle/WithLifecycleStateKt" managed-name="AndroidX.Lifecycle.WithLifecycleStateKt, Xamarin.AndroidX.Lifecycle.Runtime.Ktx" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

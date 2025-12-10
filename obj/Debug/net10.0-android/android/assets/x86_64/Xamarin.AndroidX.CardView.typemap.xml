@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.CardView" mvid="574e3ae7ae4b481b8e17df4c82576cd7">
+  <java-to-managed>
+    <entry java-name="androidx/cardview/widget/CardView" managed-name="AndroidX.CardView.Widget.CardView, Xamarin.AndroidX.CardView" managed-type-token-id="33554447" />
+    <entry java-name="androidx/cardview/widget/RoundRectDrawableWithShadow" managed-name="AndroidX.CardView.Widget.RoundRectDrawableWithShadow, Xamarin.AndroidX.CardView" managed-type-token-id="33554448" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/cardview/widget/CardView" managed-name="AndroidX.CardView.Widget.CardView, Xamarin.AndroidX.CardView" managed-type-token-id="33554447" />
+    <entry java-name="androidx/cardview/widget/RoundRectDrawableWithShadow" managed-name="AndroidX.CardView.Widget.RoundRectDrawableWithShadow, Xamarin.AndroidX.CardView" managed-type-token-id="33554448" />
+  </managed-to-java>
+</api>

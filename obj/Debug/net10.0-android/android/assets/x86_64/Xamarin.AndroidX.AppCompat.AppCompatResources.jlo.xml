@@ -1,0 +1,5 @@
+<api>
+  <acw-types partial-assembly-name="Xamarin.AndroidX.AppCompat.AppCompatResources" module-name="Xamarin.AndroidX.AppCompat.AppCompatResources.dll">
+    <type assembly-qualified-name="AndroidX.AppCompat.Widget.ResourceManagerInternal+IResourceManagerHooks, Xamarin.AndroidX.AppCompat.AppCompatResources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks" java-key="androidx.appcompat.widget.ResourceManagerInternal$ResourceManagerHooks" managed-key="AndroidX.AppCompat.Widget.ResourceManagerInternal.IResourceManagerHooks" partial-assembly-qualified-name="AndroidX.AppCompat.Widget.ResourceManagerInternal+IResourceManagerHooks, Xamarin.AndroidX.AppCompat.AppCompatResources" />
+  </acw-types>
+</api>

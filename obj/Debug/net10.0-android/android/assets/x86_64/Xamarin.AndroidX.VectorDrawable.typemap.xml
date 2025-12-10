@@ -1,0 +1,12 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.VectorDrawable" mvid="fd388abcb19e45b19f66a0b0b10bcf6a">
+  <java-to-managed>
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCommon" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCommon, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554448" />
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCommon" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCommonInvoker, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554449" />
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCompat" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCompat, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554450" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCommon" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCommon, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554448" />
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCommon" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCommonInvoker, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554449" />
+    <entry java-name="androidx/vectordrawable/graphics/drawable/VectorDrawableCompat" managed-name="AndroidX.VectorDrawable.Graphics.Drawable.VectorDrawableCompat, Xamarin.AndroidX.VectorDrawable" managed-type-token-id="33554450" />
+  </managed-to-java>
+</api>

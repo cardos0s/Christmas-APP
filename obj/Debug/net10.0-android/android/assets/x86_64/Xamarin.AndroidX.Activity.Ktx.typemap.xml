@@ -1,0 +1,16 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.Activity.Ktx" mvid="699864dfef9c4935909a179ef17a24b0">
+  <java-to-managed>
+    <entry java-name="androidx/activity/ActivityViewModelLazyKt" managed-name="AndroidX.Activity.ActivityViewModelLazyKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554438" />
+    <entry java-name="androidx/activity/PipHintTrackerKt" managed-name="AndroidX.Activity.PipHintTrackerKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554439" />
+    <entry java-name="androidx/activity/result/ActivityResultCallerKt" managed-name="AndroidX.Activity.Result.ActivityResultCallerKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554440" />
+    <entry java-name="androidx/activity/result/ActivityResultKt" managed-name="AndroidX.Activity.Result.ActivityResultKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554441" />
+    <entry java-name="androidx/activity/result/ActivityResultLauncherKt" managed-name="AndroidX.Activity.Result.ActivityResultLauncherKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/activity/ActivityViewModelLazyKt" managed-name="AndroidX.Activity.ActivityViewModelLazyKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554438" />
+    <entry java-name="androidx/activity/PipHintTrackerKt" managed-name="AndroidX.Activity.PipHintTrackerKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554439" />
+    <entry java-name="androidx/activity/result/ActivityResultCallerKt" managed-name="AndroidX.Activity.Result.ActivityResultCallerKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554440" />
+    <entry java-name="androidx/activity/result/ActivityResultKt" managed-name="AndroidX.Activity.Result.ActivityResultKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554441" />
+    <entry java-name="androidx/activity/result/ActivityResultLauncherKt" managed-name="AndroidX.Activity.Result.ActivityResultLauncherKt, Xamarin.AndroidX.Activity.Ktx" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

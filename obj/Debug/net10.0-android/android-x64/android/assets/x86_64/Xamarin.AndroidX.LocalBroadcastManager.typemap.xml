@@ -1,0 +1,8 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.LocalBroadcastManager" mvid="eb5fa496aac64481b4c46985823e797d">
+  <java-to-managed>
+    <entry java-name="androidx/localbroadcastmanager/content/LocalBroadcastManager" managed-name="AndroidX.LocalBroadcastManager.Content.LocalBroadcastManager, Xamarin.AndroidX.LocalBroadcastManager" managed-type-token-id="33554438" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/localbroadcastmanager/content/LocalBroadcastManager" managed-name="AndroidX.LocalBroadcastManager.Content.LocalBroadcastManager, Xamarin.AndroidX.LocalBroadcastManager" managed-type-token-id="33554438" />
+  </managed-to-java>
+</api>

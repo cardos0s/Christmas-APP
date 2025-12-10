@@ -1,0 +1,8 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.Lifecycle.ViewModel.Ktx" mvid="f09f8bedaa364dd09a4bd00b4a6dd84d">
+  <java-to-managed>
+    <entry java-name="androidx/lifecycle/ViewModelKt" managed-name="AndroidX.Lifecycle.ViewModelKt, Xamarin.AndroidX.Lifecycle.ViewModel.Ktx" managed-type-token-id="33554438" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/lifecycle/ViewModelKt" managed-name="AndroidX.Lifecycle.ViewModelKt, Xamarin.AndroidX.Lifecycle.ViewModel.Ktx" managed-type-token-id="33554438" />
+  </managed-to-java>
+</api>

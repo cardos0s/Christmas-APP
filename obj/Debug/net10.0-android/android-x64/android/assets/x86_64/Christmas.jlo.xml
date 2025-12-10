@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64e2472a62e6a270f8" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="Christmas.MainActivity, Christmas">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64e2472a62e6a270f8" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="Christmas.MainApplication, Christmas" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="Christmas" module-name="Christmas.dll">
+    <type assembly-qualified-name="Christmas.MainActivity, Christmas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="christmas.MainActivity" java-key="crc64e2472a62e6a270f8.MainActivity" managed-key="Christmas.MainActivity" partial-assembly-qualified-name="Christmas.MainActivity, Christmas" />
+    <type assembly-qualified-name="Christmas.MainApplication, Christmas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="christmas.MainApplication" java-key="crc64e2472a62e6a270f8.MainApplication" managed-key="Christmas.MainApplication" partial-assembly-qualified-name="Christmas.MainApplication, Christmas" />
+  </acw-types>
+</api>

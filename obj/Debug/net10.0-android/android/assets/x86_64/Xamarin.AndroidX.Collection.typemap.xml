@@ -1,0 +1,22 @@
+<api type="debug" assembly-name="Xamarin.AndroidX.Collection" mvid="105de0fbdc734e4883d6ca15dfb40045">
+  <java-to-managed>
+    <entry java-name="androidx/collection/ArrayMap" managed-name="AndroidX.Collection.ArrayMap, Xamarin.AndroidX.Collection" managed-type-token-id="33554469" />
+    <entry java-name="androidx/collection/ArraySet" managed-name="AndroidX.Collection.ArraySet, Xamarin.AndroidX.Collection" managed-type-token-id="33554470" />
+    <entry java-name="androidx/collection/CircularArray" managed-name="AndroidX.Collection.CircularArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554471" />
+    <entry java-name="androidx/collection/CircularIntArray" managed-name="AndroidX.Collection.CircularIntArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554472" />
+    <entry java-name="androidx/collection/LongSparseArray" managed-name="AndroidX.Collection.LongSparseArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554473" />
+    <entry java-name="androidx/collection/LruCache" managed-name="AndroidX.Collection.LruCache, Xamarin.AndroidX.Collection" managed-type-token-id="33554474" />
+    <entry java-name="androidx/collection/SimpleArrayMap" managed-name="AndroidX.Collection.SimpleArrayMap, Xamarin.AndroidX.Collection" managed-type-token-id="33554475" />
+    <entry java-name="androidx/collection/SparseArrayCompat" managed-name="AndroidX.Collection.SparseArrayCompat, Xamarin.AndroidX.Collection" managed-type-token-id="33554476" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="androidx/collection/ArrayMap" managed-name="AndroidX.Collection.ArrayMap, Xamarin.AndroidX.Collection" managed-type-token-id="33554469" />
+    <entry java-name="androidx/collection/ArraySet" managed-name="AndroidX.Collection.ArraySet, Xamarin.AndroidX.Collection" managed-type-token-id="33554470" />
+    <entry java-name="androidx/collection/CircularArray" managed-name="AndroidX.Collection.CircularArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554471" />
+    <entry java-name="androidx/collection/CircularIntArray" managed-name="AndroidX.Collection.CircularIntArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554472" />
+    <entry java-name="androidx/collection/LongSparseArray" managed-name="AndroidX.Collection.LongSparseArray, Xamarin.AndroidX.Collection" managed-type-token-id="33554473" />
+    <entry java-name="androidx/collection/LruCache" managed-name="AndroidX.Collection.LruCache, Xamarin.AndroidX.Collection" managed-type-token-id="33554474" />
+    <entry java-name="androidx/collection/SimpleArrayMap" managed-name="AndroidX.Collection.SimpleArrayMap, Xamarin.AndroidX.Collection" managed-type-token-id="33554475" />
+    <entry java-name="androidx/collection/SparseArrayCompat" managed-name="AndroidX.Collection.SparseArrayCompat, Xamarin.AndroidX.Collection" managed-type-token-id="33554476" />
+  </managed-to-java>
+</api>
