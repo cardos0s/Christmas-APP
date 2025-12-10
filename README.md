@@ -1,4 +1,4 @@
-Christmas APP: Catálogo de Presentes Temático (.NET MAUI)
+### Christmas APP: Catálogo de Presentes Temático (.NET MAUI)
 
 Este projeto é um aplicativo móvel cross-platform desenvolvido com .NET MAUI (Multi-platform App UI), focado em demonstrar a criação de interfaces de usuário (UI) temáticas e layouts complexos usando controles nativos. Ele simula uma tela de catálogo de presentes festivos.
 🌟 Visão Geral do Projeto
@@ -16,7 +16,7 @@ Telas Implementadas:
 
     Plataforma Alvo: Android (Principalmente), iOS, Windows.
 
-🖼️ Estrutura da Interface (CategoriesPage.xaml)
+### Estrutura da Interface (CategoriesPage.xaml)
 
 A tela principal utiliza uma Grid mestra com 4 linhas para organizar o conteúdo de forma responsiva:
 Linha (Row)	Conteúdo	Propriedade	Objetivo
@@ -30,7 +30,7 @@ Destaques do XAML:
 
     Layout Fixo vs. Rolável: A combinação de Grid.Row="1" e Grid.Row="3" garante que o banner promocional permaneça visível no topo, enquanto a lista (CollectionView) rola de forma independente.
 
-🚀 Como Rodar o Projeto
+### Como Rodar o Projeto
 
 Siga os passos abaixo para clonar e executar o aplicativo no seu ambiente Linux.
 Pré-requisitos
@@ -41,7 +41,7 @@ Pré-requisitos
 
     Git instalado e configurado (o que já foi feito).
 
-1. Clonar o Repositório
+### 1. Clonar o Repositório
 
 Como a autenticação SSH já foi configurada, use o URL SSH para clonar o projeto:
 Bash
@@ -49,7 +49,7 @@ Bash
 git clone git@github.com:cardos0s/Christmas-APP.git
 cd Christmas-APP/Christmas
 
-2. Restauração e Build
+### 2. Restauração e Build
 
 Entre no diretório do projeto (.NET MAUI) e compile. Certifique-se de que o caminho do Android SDK esteja correto para o seu sistema:
 Bash
@@ -57,14 +57,14 @@ Bash
 dotnet restore
 dotnet build -f net10.0-android /p:AndroidSdkDirectory="/home/julia-cardoso/Android/Sdk"
 
-3. Executar no Android
+### 3. Executar no Android
 
 Se o build for bem-sucedido, use o comando dotnet run para instalar e iniciar o aplicativo no seu dispositivo ou emulador conectado via ADB:
 Bash
 
 dotnet run -f net10.0-android /p:AndroidSdkDirectory="/home/julia-cardoso/Android/Sdk"
 
-💻 Contribuições
+###  Contribuições
 
 Sinta-se à vontade para sugerir melhorias, corrigir bugs ou adicionar novos recursos temáticos!
 
